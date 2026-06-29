@@ -1,0 +1,10 @@
+# robots.txt for PT. Aryatek Kontrol Sejahtera
+User-agent: *
+Allow: /
+
+# Disallow admin or private directories (if any)
+Disallow: /admin/
+Disallow: /private/
+
+# Sitemap location
+Sitemap: https://aryatek.co.id/sitemap.xml
